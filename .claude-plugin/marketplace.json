@@ -1,0 +1,13 @@
+{
+  "name": "context-meter",
+  "description": "Context-size widget for Claude Code",
+  "owner": {
+    "name": "kk5190"
+  },
+  "plugins": [
+    {
+      "name": "context-meter",
+      "source": "./"
+    }
+  ]
+}
