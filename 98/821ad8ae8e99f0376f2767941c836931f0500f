@@ -1,0 +1,35 @@
+.claude-plugin/marketplace.json
+  s_bf070631bae8cf::t_1edd58637bdf07 1-13
+.claude-plugin/plugin.json
+  s_bf070631bae8cf::t_38d9f0af492ab1 1-9
+.gitignore
+  s_bf070631bae8cf::t_6e2d2d75835f02 1-4
+LICENSE
+  s_bf070631bae8cf::t_1f6b55b23d5b62 1-21
+README.md
+  s_bf070631bae8cf::t_51840c19565fe4 1-57
+hooks/hooks.json
+  s_bf070631bae8cf::t_241ac4bac961ea 1
+hooks/register.test.ts
+  s_bf070631bae8cf::t_76492e4b37fa01 1-62
+hooks/register.tsx
+  s_bf070631bae8cf::t_038b0b0202dff7 1-98
+types/index.d.ts
+  s_bf070631bae8cf::t_9014bb3e5a84de 1-7
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "98821ad8ae8e99f0376f2767941c836931f0500f",
+  "prompts": {},
+  "sessions": {
+    "s_bf070631bae8cf": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "58022ccc-517d-4171-b1f7-bf5600236959",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "kk5190 <kk5190krrish@gmail.com>"
+    }
+  }
+}
